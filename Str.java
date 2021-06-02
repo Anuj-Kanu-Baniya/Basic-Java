@@ -27,6 +27,7 @@ class Str{
     System.out.println(m.indexOf('i',2));
    // System.out.println(m.lastOf('i'));
    // System.out.println(m.LasttOf('i',2));
+   System.out.println("this is my first github practise");
 
    
 
